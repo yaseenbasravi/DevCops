@@ -6,9 +6,6 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 
 ## Website Link
 
-Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
-
 ##
 
 __NOTE: Please be aware that the PHP Mailer feature is not functional on the deployed website. To utilize it, you'll need to download the entire project and run it locally on your computer using XAMPP or WAMP.__
